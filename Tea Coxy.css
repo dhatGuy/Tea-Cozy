@@ -5,7 +5,6 @@ body{
     text-align: center;
     font-family: Helvetica, sans-serif;
     font-size: 22px;
-    padding: auto 20px;
 }
 
 header .heading{
@@ -101,7 +100,6 @@ header .heading nav a{
         flex-direction: column;
         flex-wrap: nowrap;
         align-items: flex-start;
-        /* padding-left: 15px; */
     }
     span p{
         font-size: 20px;
@@ -120,7 +118,7 @@ header .heading nav a{
 .locations{
     padding-top: 40px;
     height: 500px;
-    width: 110%;
+    width: 100%;
     background-image: url(./img-locations-background.jpg);
     background-size: cover;
     background-position: center;
